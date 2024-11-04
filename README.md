@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxiclikith&label=Profile%20views&color=0e75b6&style=flat" alt="toxiclikith" /> </p>
 
-- 🔭 I’m currently working on **Movie Info Application**
+- 🔭 I’m currently working on **Message Disposable service**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Upskilling and Reskilling**
 
 - 🤝 I’m looking for help with **Full Stack Developer**
 
