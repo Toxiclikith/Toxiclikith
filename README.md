@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toxiclikith</h1>
-<h3 align="center">A passionate frontend developer from India & Telegram Bots Developer</h3>
+<h3 align="center">A passionate backend developer from India & Telegram Bots Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxiclikith&label=Profile%20views&color=0e75b6&style=flat" alt="toxiclikith" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Upskilling and Reskilling**
 
-- 🤝 I’m looking for help with **Full Stack Developer**
+- 🤝 I’m looking for help with **AI Integration for Movies, Series related**
 
 - 💬 Ask me about **Movies, Series, New Technologies**
 
